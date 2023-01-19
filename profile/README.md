@@ -1,4 +1,4 @@
-# About
+# safeFBDC @ TU Darmstadt
 
 This site contains the software prototypes developed during research in the safeFBDC project at TU Darmstadt.
 
