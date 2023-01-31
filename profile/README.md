@@ -6,9 +6,10 @@ This site contains the software prototypes developed during research in the safe
 
 ## Content Overview
 
-- **HAP1 Prototype** This repository contains the first prototype website available under <https://safefbdc-tu-darmstadt.github.io/HAP1-Prototype/>. It is the result of Milestone L1.14 "1. Platform Prototype TruFinance".
 - **PWN** This repository is the official implementation of Predictive Whittle Networks (PWN) introduced in the paper titled [Predictive Whittle Networks for Time Series](https://ml-research.github.io/papers/yu2022whittle.pdf) by Zhongjie Yu, Fabrizio Ventola, Nils Thoma, Devendra Singh Dhami, Martin Mundt, and Kristian Kersting, published at UAI 2022.
 - **FEATHERS** is a prototype for federated architecture and hyperparameter search during federated learning for neural networks.
 - **SGX4ML-Python** and **SGX4ML-CPP** contain the code for our performance study on machine learning in SGX enclaves using the SGX SDK and Gramine Library OS.
 - **QFilter** is a fine-grained access control enforcement mechanism tightly integrated with query processing over secret-shared data.
-- Rescala RDT Data Architecture Demonstrator demonstrate how the REScala project and replicated data types can be used to design an interactive application that makes use of one or more services within an arbitrary ad-hoc network. 
+- **TRUFL** is a system that enables trust and privacy in a federated online analytical processing (OLAP) setting.
+- **Rescala RDT Data Architecture Demonstrator** demonstrates how the REScala project and replicated data types can be used to design an interactive application that makes use of one or more services within an arbitrary ad-hoc network.
+- **HAP1 Prototype** This repository contains the first prototype website available under <https://safefbdc-tu-darmstadt.github.io/HAP1-Prototype/>. It is the result of Milestone L1.14 "1. Platform Prototype TruFinance".
