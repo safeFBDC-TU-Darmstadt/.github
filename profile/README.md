@@ -11,6 +11,7 @@ This site contains the software prototypes developed during research in the safe
 - **Rescala RDT Data Architecture Demonstrator** demonstrates how the REScala project and replicated data types can be used to design an interactive application that makes use of one or more services within an arbitrary ad-hoc network.
 - **Second Generation SGX Benchmark** contains the code for our performance study on database primitives in SGX enclaves.
 - **SGX4ML-Python** and **SGX4ML-CPP** contain the code for our performance study on machine learning in SGX enclaves using the SGX SDK and Gramine Library OS. (Access upon request)
-- **QFilter** is a fine-grained access control enforcement mechanism tightly integrated with query processing over secret-shared data. (Access upon request)
+- **QFilter** is a fine-grained access control enforcement mechanism tightly integrated with query processing over secret-shared data.
+- **SafeML** is a distributed machine learning framework designed to address privacy and Byzantine robustness concerns throughout the training and inference phases of a machine learning model.
 - **TRUFL** is a system that enables trust and privacy in a federated online analytical processing (OLAP) setting. (Access upon request)
 - **HAP1 Prototype** This repository contains the first prototype website available under <https://safefbdc-tu-darmstadt.github.io/HAP1-Prototype/>. It is the result of Milestone L1.14 "1. Platform Prototype TruFinance".
