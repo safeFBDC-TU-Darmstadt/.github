@@ -1,6 +1,6 @@
 # safeFBDC @ TU Darmstadt
 
-This site contains the software prototypes developed during research in the safeFBDC project at TU Darmstadt. Each repository is its own project with source code and documentation. This document gives an overview of all projects. These are the results of Milestone L1.15 "2. Platform Prototype TruFinance".
+This site contains the software prototypes developed during research in the safeFBDC project at TU Darmstadt. Each repository is its own project with source code and documentation. This document gives a short overview of all projects. These are the results of Milestone L1.16 "Final Platform Prototype TruFinance".
 
 **Not all projects are currently publicly available.** If you are a member of the safeFBDC project, DLR, BMWK or other associated partner, you can reach out to [Adrian Lutsch](https://www.informatik.tu-darmstadt.de/systems/systems_tuda/group/team_detail_117568.en.jsp) for access and/or a download link.
 
